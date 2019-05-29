@@ -18,12 +18,12 @@ $options = array();
 $showServerName = false;
 
 $options['test.db'] = false;
-    $options['db.host'] = 'db';
-    $options['db.user'] = 'root';
-    $options['db.pw'] = '123456';
-    $options['db.name'] = 'db';
+$options['db.host'] = 'db';
+$options['db.user'] = 'root';
+$options['db.pw'] = '123456';
+$options['db.name'] = 'mysql';
 
-$options['test_count'] = 9999;
+$options['test_count'] = 10000;
 
 // -----------------------------------------------------------------------------
 // Main
